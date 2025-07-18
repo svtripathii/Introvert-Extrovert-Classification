@@ -83,10 +83,15 @@ Create a machine learning model to classify a person’s personality trait and d
 ## Folder Structure 
 
 ├── app.py                  # Streamlit app
+
 ├── model.pkl               # Pickled ML model
+
 ├── scaler.pkl              # Pickled scaler
+
 ├── data.csv                # Dataset (optional)
+
 ├── requirements.txt        # Python dependencies
+
 └── README.md               # Project overview
 ---
 
